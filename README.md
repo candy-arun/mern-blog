@@ -1,4 +1,4 @@
-# 📰 MERN Blog Platform
+<img width="368" height="19" alt="image" src="https://github.com/user-attachments/assets/a58c16a3-c6e9-422c-94f6-5d664a4e997a" /># 📰 MERN Blog Platform
 
 A full-stack **Blogging Platform** built with the **MERN stack (MongoDB, Express, React, Node.js)**.  
 This is the **main repository** that organizes the project, with links to both frontend and backend.
@@ -10,8 +10,10 @@ This is the **main repository** that organizes the project, with links to both f
 ---
 
 ## 📂 Project Structure
-- **frontend/** → React frontend ([Repo link](https://github.com/candy-arun/mern-blog-frontend))  
-- **backend/** → Express + MongoDB backend ([Repo link](https://github.com/candy-arun/mern-blog-backend))
+- **frontend/** → React frontend ([Repo link](https://mern-blog-frontend-ten-zeta.vercel.app/.api<img width="441" height="23" alt="image" src="https://github.com/user-attachments/assets/f56df933-77fb-4178-b4d5-a6ecd3373866" />
+))  
+- **backend/** → Express + MongoDB backend ([Repo link](https://mern-blog-backend-eax0.onrender.com<img width="368" height="19" alt="image" src="https://github.com/user-attachments/assets/b6976bcc-9e68-4a24-9364-96ff60b03740" />
+))
 
 This repo uses **git submodules** to link both.
 
